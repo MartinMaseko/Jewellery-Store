@@ -31,3 +31,4 @@ This project has been tested on the latest versions of Chrome.
 
 ## Credits:
 **Martin Maseko**
+![storeindex - scrn](https://github.com/user-attachments/assets/7f087c94-1c66-46c0-992b-22c9f9e1722e)
